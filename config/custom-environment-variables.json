@@ -1,0 +1,3 @@
+{
+  "jwtPrivateKey": "mongodb+srv://finance-app:finance-app@cluster0.wk8q8.mongodb.net/finance-app?retryWrites=true&w=majority"
+}

@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "finance_app_api_key",
+  "db": "mongodb+srv://finance-app:finance-app@cluster0.wk8q8.mongodb.net/finance-app?retryWrites=true&w=majority",
+  "port": "3000",
+  "requiresAuth": false
+}
